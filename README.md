@@ -31,4 +31,4 @@ anime_id - the anime that this user has rated.
 
 rating - rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating).
 
-#Building a better anime recommendation system based only on user viewing history.
+# Building a better anime recommendation system based only on user viewing history.
